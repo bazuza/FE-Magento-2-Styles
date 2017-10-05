@@ -36,6 +36,7 @@ module.exports = {
 * `grunt watch` Tracks the changes in the source files, recompiles `.css` files
 
 ## Compile LESS with Gulp
+**Сomparison table Gulp vs Grunt**
 <table>
 <tr><th></th><th>Gulp</th><th>Grunt</th></tr>
 <tr><td>Compilation of all themes (10 files):</td><td>16sec</td><td>33sec</td></tr>
