@@ -1,3 +1,5 @@
+[![picture alt](https://i.imgur.com/K44huME.png "Main page")](https://github.com/bazuza/FE-Magento-2-Guide)
+
 ## Compile LESS with Grunt
 
 ### Installing and configuring Grunt
