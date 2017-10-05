@@ -52,9 +52,9 @@ module.exports = {
 7. For using [liveReload](http://livereload.com/) install extension for your browser
 
 
-**Note**
+:exclamation: **Note**
 
-:exclamation: _Don't remove grunt modules (You must use `gunt exec:<theme>` command for republishes symlinks to the source files)_
+> _Don't remove grunt modules (You must use `gunt exec:<theme>` command for republishes symlinks to the source files)_
 
 ## Resources:
 * [Compile LESS with Grunt](http://devdocs.magento.com/guides/v2.0/frontend-dev-guide/css-topics/css_debug.html)
