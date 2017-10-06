@@ -57,6 +57,10 @@ module.exports = {
 
 > _Don't remove grunt modules (You must use `gunt exec:<theme>` command for republishes symlinks to the source files)_
 
+## Links:
+* [Create custom theme](https://github.com/bazuza/FE-Magento-2-Create-theme)
+* [Java Script](https://github.com/bazuza/FE-Magento-2-Java-Script)
+
 ## Resources:
 * [Compile LESS with Grunt](http://devdocs.magento.com/guides/v2.0/frontend-dev-guide/css-topics/css_debug.html)
 * [Compile LESS with Gulp](https://github.com/subodha/magento-2-gulp)
