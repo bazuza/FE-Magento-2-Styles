@@ -6,7 +6,7 @@
 1. Install [node.js](https://nodejs.org/en/) to any location on your machine.
 2. Install Grunt CLI tool globally and locally. To do this, run the following command in a command prompt: `npm install -g grunt-cli`, `npm install grunt --save-dev`  
 3. Install (or refresh) the `node.js` project dependency, including Grunt, for your Magento instance. To do this, run the following commands in a command prompt:
-```npm
+```bush
 cd <your_Magento_instance_directory>
 npm install
 npm update
