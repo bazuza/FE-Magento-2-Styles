@@ -30,10 +30,10 @@ module.exports = {
 5. (Optional) If you want to use Grunt for "watching" changes automatically, without reloading pages in a browser each time, install the [LiveReload extension](http://livereload.com/extensions/) in your browser.
 
 ### Grunt commands:
-* `grunt clean:<theme>` Removes the theme related static files in the `pub/static` and `var` directories.
-* `grunt exec:<theme>` Republishes symlinks to the source files to the `pub/static/frontend/<Vendor>/<theme>/<locale>` directory.
-* `grunt less:<theme>` Compiles `.css` files using the symlinks published in the `pub/static/frontend/<Vendor>/<theme>/<locale>` directory
-* `grunt watch` Tracks the changes in the source files, recompiles `.css` files
+* `grunt clean:<theme>` – Removes the theme related static files in the `pub/static` and `var` directories.
+* `grunt exec:<theme>` – Republishes symlinks to the source files to the `pub/static/frontend/<Vendor>/<theme>/<locale>` directory.
+* `grunt less:<theme>` – Compiles `.css` files using the symlinks published in the `pub/static/frontend/<Vendor>/<theme>/<locale>` directory
+* `grunt watch` – Tracks the changes in the source files, recompiles `.css` files
 
 ## Compile LESS with Gulp
 **Сomparison table Gulp vs Grunt**
