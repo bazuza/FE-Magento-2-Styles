@@ -1,8 +1,7 @@
 [![picture alt](https://raw.githubusercontent.com/bazuza/FE-Magento-2-Guide/master/logo-m2-fe.png "Main page")](https://github.com/bazuza/FE-Magento-2-Guide)
 
 :exclamation: **Note**
-
-> _Start the console from the administrator_
+ > <span style="color:red;"> Start the console from the administrator </span>
 
 ## Compile LESS with Grunt
 
