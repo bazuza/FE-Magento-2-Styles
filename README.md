@@ -59,7 +59,7 @@ module.exports = {
 
 :exclamation: **Note**
 
-> _Don't remove grunt modules (You must use `gunt exec:<theme>` command for republishes symlinks to the source files)_
+> _Don't remove grunt modules (You must use `grunt exec:<theme>` command for republishes symlinks to the source files)_
 
 ## Links:
 * [Create custom theme](https://github.com/bazuza/FE-Magento-2-Create-theme)
