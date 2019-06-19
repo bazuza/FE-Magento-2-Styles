@@ -49,7 +49,7 @@ module.exports = {
 ### Installation
 1. Download as a zip file or clone [this](https://github.com/subodha/magento-2-gulp).
 2. Copy `gulpfile.js` and `package.json` in to the root directory
-3. Install gulp globaly and locally using `npm install -g gulp-cli`, `nmp install gulp --save-dev`
+3. Install gulp globaly and locally using `npm install -g gulp-cli`, `npm install gulp --save-dev`
 4. Install modules: run a command in a root directory of your project `npm install`.
 5. Compilation: `gulp less --<theme> --live (with live reload)`
 6. Watcher: `gulp watch --<theme> --live (with live reload)`
